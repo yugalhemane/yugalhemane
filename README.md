@@ -23,7 +23,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 Building: <a href="https://github.com/YuGal-69/E-learning-platform.git"><b>E-Learning Platform</b></a></li>
+        <li>🔭 Building: <a href="https://github.com/yugalhemane/E-learning-platform.git"><b>E-Learning Platform</b></a></li>
         <li>🌱 Learning: React, Angular, Cloud Integration</li>
         <li>💬 Ask me: Frontend, REST APIs, MongoDB, DevOps</li>
         <li>⚡ Gamifying cybersecurity learning with interactive games 🎮</li>
@@ -68,11 +68,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugal-69&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugal-69&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yugalhemane&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalhemane&layout=compact&theme=react&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugal-69&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugalhemane&theme=react&hide_border=true" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yugal-69&theme=onestar&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yugalhemane&theme=onestar&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugal-69&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugalhemane&theme=react-dark&area=true" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://github.com/YuGal-69/YuGal-69/blob/output/github-snake-dark.svg" alt="GitHub Snake dark" />
+  <img src="https://github.com/yugalhemane/yugalhemane/blob/output/github-snake-dark.svg" alt="GitHub Snake dark" />
 </p>
 
 ---
